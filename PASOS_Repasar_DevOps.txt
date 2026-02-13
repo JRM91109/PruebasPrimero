@@ -1,0 +1,22 @@
+1.  correr pipeline de creacion de repo api .net 
+2.  codigo de tasasacion core_app 
+3.  clonar y subir el codigo a mi repo  x comandos o por 
+4.  configurar pipeline BV / CI /CD 
+5.  configurar variables 
+6.  revisar permisos de sonar  - guias 
+7.  cambio en feature y PR a develop - aqui se debe ejecutar el BV 
+8.  deberia correr el CI y despues el CD 
+9.  CD ver donde hace el despliegue 
+10. sustitucion de variables en archivos de configuracion
+11. 
+
+Pruebas estaticas SonarCube
+Pruebas unitarias
+Pruebas automatizadas de QA
+Pruebas dinamicas de seguridad
+Plan de trabajo para el proximo año , algo de esto se va a retomar? 
+
+tas_consultas_core_app
+tas_consultas_core_web
+tas_mantenimientos_core_app (solucion a hallazgo en uso de referencias)
+
